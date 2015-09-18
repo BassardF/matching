@@ -35,3 +35,5 @@ class Rating {
         }
     }
 }
+
+module.exports = Rating;
