@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/BassardF/matching.git"
   },
   "author": "Frank Bassard",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/BassardF/matching/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/BassardF/matching"
 }
